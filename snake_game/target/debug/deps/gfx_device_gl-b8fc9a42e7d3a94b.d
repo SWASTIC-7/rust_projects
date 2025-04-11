@@ -1,0 +1,11 @@
+/home/nazr/Desktop/projects/rust_projects/snake_game/target/debug/deps/libgfx_device_gl-b8fc9a42e7d3a94b.rmeta: /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/lib.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/command.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/factory.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/info.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/shade.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/state.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/tex.rs
+
+/home/nazr/Desktop/projects/rust_projects/snake_game/target/debug/deps/gfx_device_gl-b8fc9a42e7d3a94b.d: /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/lib.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/command.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/factory.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/info.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/shade.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/state.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/tex.rs
+
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/lib.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/command.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/factory.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/info.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/shade.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/state.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gfx_device_gl-0.16.2/src/tex.rs:

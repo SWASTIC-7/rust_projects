@@ -1,0 +1,12 @@
+/home/nazr/Desktop/projects/rust_projects/snake_game/target/debug/deps/liblibloading-b0cb17e884b8138b.rmeta: /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/lib.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/changelog.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/os/mod.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/os/unix/mod.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/os/unix/consts.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/util.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/error.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/safe.rs
+
+/home/nazr/Desktop/projects/rust_projects/snake_game/target/debug/deps/libloading-b0cb17e884b8138b.d: /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/lib.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/changelog.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/os/mod.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/os/unix/mod.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/os/unix/consts.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/util.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/error.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/safe.rs
+
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/lib.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/changelog.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/os/mod.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/os/unix/mod.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/os/unix/consts.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/util.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/error.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.8.6/src/safe.rs:

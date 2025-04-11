@@ -1,0 +1,12 @@
+/home/nazr/Desktop/projects/rust_projects/snake_game/target/debug/deps/libgif-ef60a492f083d657.rmeta: /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/lib.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/traits.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/common.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/reader/mod.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/reader/decoder.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/reader/converter.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/encoder.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/../README.md
+
+/home/nazr/Desktop/projects/rust_projects/snake_game/target/debug/deps/gif-ef60a492f083d657.d: /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/lib.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/traits.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/common.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/reader/mod.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/reader/decoder.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/reader/converter.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/encoder.rs /home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/../README.md
+
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/lib.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/traits.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/common.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/reader/mod.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/reader/decoder.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/reader/converter.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/encoder.rs:
+/home/nazr/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/../README.md:
